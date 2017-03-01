@@ -8,6 +8,7 @@ for (int x = 1; x < 46; x++)
 			for(int w = 0; w < a; w++)
 			{
 				roulletA[y] = lotto[x];
+				printf("테스트");
 			}
 			
 		}
